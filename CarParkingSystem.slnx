@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../CarParkingSystemTests/CarParkingSystemTests.vcxproj" Id="66901005-489e-4adb-a5a3-ef44486ca7d6" />
+  <Project Path="CarParkingSystem.vcxproj" Id="3b82b33a-8b5c-4ce9-a1bc-8acfc4075f44" />
+</Solution>

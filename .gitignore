@@ -1,0 +1,17 @@
+x64/
+x86/
+Debug/
+Release/
+packages/
+.vs/
+.vscode/
+*.pdb
+*.obj
+*.ilk
+*.ipdb
+*.iobj
+*.tlog
+*.log
+*.user
+*.exe
+.env
